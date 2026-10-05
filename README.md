@@ -1,2 +1,0 @@
-# harshworks
-My portfolio website
